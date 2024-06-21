@@ -10,6 +10,6 @@ explode = explode,labels=labels,autopct='%1.f%%',
 shadow=True,
 counterclock = False,
 startangle = 45)
-plt.savefig('Pie.jpg')
+plt.savefig('Pie')
 plt.show()
 
